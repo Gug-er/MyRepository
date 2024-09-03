@@ -1,1 +1,1 @@
-print('Hello, SVN!') 
+print('Hello, Git!') 
